@@ -1,52 +1,40 @@
-# data-engineering-zoomcamp
+# 🛠️ Data Engineering Zoomcamp 2025
 
-Modules
+## 📚 Course Structure
 
-Module 1: Containerization and Infrastructure as Code
+### Module 1: Containerization and Infrastructure as Code
+- Introduction to GCP
+- Docker and Docker Compose
+- Running PostgreSQL with Docker
+- Infrastructure setup with Terraform
 
-Introduction to GCP
-Docker and Docker Compose
-Running PostgreSQL with Docker
-Infrastructure setup with Terraform
-Homework
+### Module 2: Workflow Orchestration
+- Data Lakes and Workflow Orchestration
+- Orchestration with **Kestra**
 
-Module 2: Workflow Orchestration
+### Workshop 1: Data Ingestion
+- API reading and pipeline scalability
+- Data normalization and incremental loading
 
-Data Lakes and Workflow Orchestration
-Workflow orchestration with Kestra
-Homework
+### Module 3: Data Warehousing
+- Introduction to BigQuery
+- Partitioning, clustering, and best practices
+- Machine Learning in BigQuery
 
-Workshop 1: Data Ingestion
+### Module 4: Analytics Engineering
+- **dbt** with PostgreSQL & BigQuery
+- Testing, documentation, and deployment
+- Data visualization with Metabase
 
-API reading and pipeline scalability
-Data normalization and incremental loading
-Homework
+### Module 5: Batch Processing
+- Apache Spark
+- DataFrames and SQL
+- Internals of `GroupBy` and `Joins`
 
-Module 3: Data Warehousing
+### Module 6: Streaming
+- Kafka, Streams, and KSQL
+- Schema management with Avro
 
-Introduction to BigQuery
-Partitioning, clustering, and best practices
-Machine learning in BigQuery
-
-Module 4: Analytics Engineering
-
-dbt (data build tool) with PostgreSQL & BigQuery
-Testing, documentation, and deployment
-Data visualization with Metabase
-
-Module 5: Batch Processing
-
-Introduction to Apache Spark
-DataFrames and SQL
-Internals of GroupBy and Joins
-
-Module 6: Streaming
-
-Introduction to Kafka
-Kafka Streams and KSQL
-Schema management with Avro
-
-Final Project
-
-Apply all concepts learned in a real-world scenario
-Peer review and feedback process
+### 🚀 Final Project
+- End-to-end project applying all concepts
+- Peer review and feedback process
